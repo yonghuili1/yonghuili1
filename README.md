@@ -2,7 +2,6 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ## About me
-- 🔭 I’m currently working on haichenbangda(Data Arch)
 - 🌱 I’m currently learning linux-kernel/Golang
 - 📫 How to reach me: [1437891764@qq.com]
 - 💬 Ask me about Linux/Golang/Kubernets
