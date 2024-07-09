@@ -3,7 +3,7 @@
 
 ## About me
 - 🌱 I’m currently learning linux-kernel/Golang
-- 📫 How to reach me: [1437891764@qq.com]
+- 📫 How to reach me: [liyonghui1949@gmail.com]
 - 💬 Ask me about Linux/Golang/Kubernets
 - ⚡ Fun fact: I am a silver rank LOL player😃
 ## More
